@@ -246,6 +246,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Open source event data pipeline for collecting behavioural data from websites and apps. `Self-hosted` |
 | [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Session recordings and heatmaps for websites. `Hosted` |
 | [Plausible](https://plausible.io) | - | Free self-hosted, from $9/mo hosted | Privacy-friendly website analytics, available hosted or self-hosted. `Self-hosted` |
+| [Vaneform](https://vaneform.com/) | [@jqz_dev](https://twitter.com/jqz_dev) | Free - Freemium | Free website traffic checker with monthly visits, trends, traffic sources, and leaderboards of growing sites and AI tools. Also ships an MCP server for AI assistants. `Hosted` |
 
 ## Conversion Optimization & A/B Testing
 
