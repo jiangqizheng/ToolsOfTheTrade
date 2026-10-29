@@ -231,6 +231,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Amplitude](https://amplitude.com) | [@Amplitude_HQ](https://twitter.com/Amplitude_HQ) | Free - custom | Product analytics for web and mobile apps, with funnels, retention and experiments. `Hosted` |
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat) | - | Real-time audience and traffic analytics for websites and publishers. `Hosted` |
 | [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics. Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history. |
+| [EarlyLore](https://earlylore.com) | - | Free | Research workspace for founders: study real SaaS products, revenue signals and competitor changes before you build. |
 | [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom) | $0-79/mo | Privacy-focused website analytics that does not track or store personal data. `Hosted` |
 | [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin) | Free for personal use or self hosted | Simple web statistics. No tracking of personal data. [Open source](https://github.com/zgoat/goatcounter) |
 | [GoSquared](https://www.gosquared.com) | [@gosquared](https://twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics. |
